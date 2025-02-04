@@ -1,0 +1,1 @@
+CEATE DATABASE upload_test;
